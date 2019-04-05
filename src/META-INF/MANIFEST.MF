@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: tomcat-coyote.jar tomcat-util.jar tomcat-juli.jar tomcat-jdbc.jar
+Main-Class: com.xabaras.tomcat.encryptedHttp11Nio2Protocol
+

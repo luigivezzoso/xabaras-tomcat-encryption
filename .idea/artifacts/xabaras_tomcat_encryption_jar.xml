@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="xabaras-tomcat-encryption:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/xabaras_tomcat_encryption_jar</output-path>
+    <root id="root">
+      <element id="archive" name="xabaras-tomcat-encryption.jar">
+        <element id="module-output" name="xabaras-tomcat-encryption" />
+      </element>
+      <element id="library" level="project" name="tomcat-coyote (2)" />
+      <element id="library" level="project" name="tomcat-coyote" />
+    </root>
+  </artifact>
+</component>
